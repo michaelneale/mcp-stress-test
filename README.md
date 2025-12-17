@@ -12,6 +12,11 @@ Testing standard goose which uses LLM tool calling results in this:
 
 <img width="589" height="101" alt="image" src="https://github.com/user-attachments/assets/26e74180-e950-4060-b287-4ea0e1a4c486" />
 
+and claude code with it: 
+
+<img width="1054" height="183" alt="image" src="https://github.com/user-attachments/assets/d24a3f67-45ab-4baa-8236-bfa48aa34007" />
+
+
 
 With code mode enabled: 
 

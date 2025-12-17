@@ -10,8 +10,20 @@ use `/Users/.../run.sh` or similar as cmd arg for a stdio mcp server in your age
 
 Testing standard goose which uses LLM tool calling results in this: 
 
+<img width="589" height="101" alt="image" src="https://github.com/user-attachments/assets/26e74180-e950-4060-b287-4ea0e1a4c486" />
+
 
 With code mode enabled: 
+
+<img width="530" height="230" alt="image" src="https://github.com/user-attachments/assets/d519800d-5090-4a42-8f06-f0299031e4f3" />
+
+and even allows it to reflect on this absurd MCP server with its many tools: 
+
+
+
+<img width="696" height="351" alt="image" src="https://github.com/user-attachments/assets/b6d657b6-1311-4f01-a86e-5357e8c29c9f" />
+
+
 
 # Notes
 

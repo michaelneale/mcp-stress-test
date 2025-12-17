@@ -2,10 +2,10 @@ import { Server } from '@modelcontextprotocol/sdk/server/index.js';
 import { StdioServerTransport } from '@modelcontextprotocol/sdk/server/stdio.js';
 import { CallToolRequestSchema, ListToolsRequestSchema } from '@modelcontextprotocol/sdk/types.js';
 
-const TOOL_COUNT = 100;
+const TOOL_COUNT = 2000;
 
 function toolName(i: number) {
-  return 'fake_tool_' + String(i).padStart(3, '0');
+  return 'fake_tool_' + String(i).padStart(4, '0');
 }
 
 function makeInputSchema(i: number) {
@@ -184,7 +184,7 @@ const tools = Array.from({ length: TOOL_COUNT }, (_, idx) => {
 });
 
 const server = new Server(
-  { name: 'random-100-tools', version: '0.1.0' },
+  { name: 'random-2000-tools', version: '0.2.0' },
   { capabilities: { tools: {} } }
 );
 

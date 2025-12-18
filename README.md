@@ -29,6 +29,9 @@ and even allows it to reflect on this absurd MCP server with its many tools:
 <img width="696" height="351" alt="image" src="https://github.com/user-attachments/assets/b6d657b6-1311-4f01-a86e-5357e8c29c9f" />
 
 
+claude code can use `export ENABLE_EXPERIMENTAL_MCP_CLI=true` to enable this: 
+
+
 
 # Notes
 

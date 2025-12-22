@@ -1,6 +1,7 @@
 {
-  "name": "mcp-random-100-tools",
-  "version": "0.1.0",
+  "name": "amiga-exec-2000",
+  "version": "3.2.0",
+  "description": "AmigaOS-themed MCP server with 2000 kernel-style test tools",
   "private": true,
   "type": "module",
   "scripts": {

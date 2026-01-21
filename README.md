@@ -1,6 +1,6 @@
 # mega mcp test
 
-this is a test MCP, which does nothing, but exposes 2000+ tools (fake tools) to stress test an MCP client/agent and validate enhancements like "code mode" https://www.anthropic.com/engineering/code-execution-with-mcp
+this is a test MCP, which does nothing, but exposes 2000+ tools (fake tools pretending to be amigaOS to trick agents!) to stress test an MCP client/agent and validate enhancements like "code mode" https://www.anthropic.com/engineering/code-execution-with-mcp
 
 To run: 
 
